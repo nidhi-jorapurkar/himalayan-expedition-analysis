@@ -44,22 +44,22 @@ https://mavenanalytics.io/data-playground/himalayan-expeditions?utm_source=chatg
 
 # Dashboard Previews
 
-# 1. Himalayan Expedition Intelligence
+1. Himalayan Expedition Intelligence
 Overview of expedition trends, outcomes, popular peaks and seasonality.
 
 ![Himalayan Expedition Intelligence](Himalayan-Expedition-Analysis/Screenshots/dashboard_1.png)
 
-# 2. Peak Explorer
+2. Peak Explorer
 Exploring peak elevations, expedition activity and success rates.
 
 ![Peak Explorer](Himalayan-Expedition-Analysis/Screenshots/dashboard_2.png)
 
-# 3. Risk & Expedition Performance
+3. Risk & Expedition Performance
 Analysing regional risks, seasonal performance and expedition mortality.
 
 ![Risk & Expedition Performance](Himalayan-Expedition-Analysis/Screenshots/dashboard_3.png)
 
-# 4. Climber & Expedition Profile
+4. Climber & Expedition Profile
 Understanding climber participation, nationality trends and team composition.
 
 ![Climber & Expedition Profile](Himalayan-Expedition-Analysis/Screenshots/dashboard_4.png)
