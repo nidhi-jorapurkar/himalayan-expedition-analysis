@@ -40,3 +40,27 @@ To transform historical expedition data into meaningful insights and identify pa
 Historical Himalayan expedition data sourced from 'Maven Analytics'
 https://mavenanalytics.io/data-playground/himalayan-expeditions?utm_source=chatgpt.com.
 
+---
+
+# Dashboard Previews
+
+# 1. Himalayan Expedition Intelligence
+Overview of expedition trends, outcomes, popular peaks and seasonality.
+
+![Himalayan Expedition Intelligence](Himalayan-Expedition-Analysis/Screenshots/dashboard_1.png)
+
+# 2. Peak Explorer
+Exploring peak elevations, expedition activity and success rates.
+
+![Peak Explorer](Himalayan-Expedition-Analysis/Screenshots/dashboard_2.png)
+
+# 3. Risk & Expedition Performance
+Analysing regional risks, seasonal performance and expedition mortality.
+
+![Risk & Expedition Performance](Himalayan-Expedition-Analysis/Screenshots/dashboard_3.png)
+
+# 4. Climber & Expedition Profile
+Understanding climber participation, nationality trends and team composition.
+
+![Climber & Expedition Profile](Himalayan-Expedition-Analysis/Screenshots/dashboard_4.png)
+
